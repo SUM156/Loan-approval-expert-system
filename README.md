@@ -9,6 +9,11 @@ for the AI Lab Project (UI + AI Integration).
 - **UI:** Streamlit web app with sliders, a decision gauge, a rule-firing
   trace table, and a policy comparison dashboard.
 
+  <img width="1600" height="668" alt="WhatsApp Image 2026-07-15 at 10 23 00 AM" src="https://github.com/user-attachments/assets/b5decb09-e6fc-43c2-b946-413f9455eaa4" />
+<img width="1329" height="784" alt="WhatsApp Image 2026-07-15 at 10 22 57 AM" src="https://github.com/user-attachments/assets/77e0567b-ec49-49c4-91a0-613066dc6def" />
+<img width="1424" height="752" alt="WhatsApp Image 2026-07-15 at 10 22 53 AM" src="https://github.com/user-attachments/assets/672be9e8-8855-4991-a0de-cb7d4ea7682b" />
+
+
 ## 1. Project Structure
 
 ```
